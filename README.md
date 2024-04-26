@@ -19,5 +19,5 @@ Check out the Colab notebook [Predicting_Home_Prices_in_Banglore.ipynb]([https:/
 
 Here's an example of how to use the program:
 
-![Example](./example.png)
+![Example](./example.jpg)
 
